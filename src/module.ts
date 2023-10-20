@@ -1,0 +1,1 @@
+export const todo = (a: number, b: number) => a + b;
