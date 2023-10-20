@@ -19,5 +19,8 @@
   "homepage": "https://github.com/twzhangyang/ts2023#readme",
   "dependencies": {
     "typescript": "^5.2.2"
+  },
+  "devDependencies": {
+    "@types/node": "^20.8.7"
   }
 }
